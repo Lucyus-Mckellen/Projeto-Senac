@@ -1,0 +1,33 @@
+
+:root {
+    /* Cores */
+    --cor-fundo: hsl(160, 23%, 18%);
+    --cor-fonte-titulo: hsl(160, 52%, 71%);
+    --cor-fonte-corpo: hsl(172, 45%, 75%);
+    --cor-primaria: hsl(160, 86%, 43%);
+    --cor-primaria-70: hsl(160, 23%, 18%, 0.8);
+    --cor-secundaria: hsl(158, 41%, 88%);
+    --cor-secundaria-50: hsl(158, 41%, 88%, 0.5);
+    --cor-secundaria-70: hsl(160, 52%, 71%, 0.5);
+    --cor-white: white;
+    --cor-black: black;
+    --cor-logo: hsl(160, 52%, 71%);
+    --cor-logo-50: hsl(172, 45%, 75%);
+  
+    
+    /* Fonte */
+    --fonte-principal: "Acorn", -apple-system, "system-ui", "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    --fonte-secundaria: gt, -apple-system, "system-ui", "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+
+
+    /* Tamanhos de fonte */
+    --tamanho-fonte-cabecalho: 100px;
+    --tamanho-fonte-corpo-cabecalho: 35px;
+    --tamanho-fonte-titulo: 24px;
+    --tamanho-fonte-corpo: 16px;
+  
+    /* Espaçamento */
+    --espacamento-vertical: 20px;
+    --espacamento-horizontal: 15px;
+  }
+  
